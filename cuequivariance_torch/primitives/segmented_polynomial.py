@@ -47,7 +47,7 @@ import time
 from fasteq.ops.so3_linear import fast_equi_linear
 from fasteq.ops.fctp import fast_fctp
 from fasteq.ops.uniform1d_jit import fast_uniform1d_jit
-from fasteq.ops.stc import fast_stc_uniform1d_jit
+from fasteq.ops.stc_uniform1d_jit import fast_stc_uniform1d_jit
 
 
 import math
